@@ -1,17 +1,17 @@
 {
-  "Group": "TemplatePlugin",
-  "Name": "TemplatePlugin",
+  "Group": "fr.rammex",
+  "Name": "MoneTale",
   "Version": "1.0.0",
-  "Description": "A Hytale plugin template",
+  "Description": "A Hytale plugin pokemon style",
   "Authors": [
     {
-      "Name": "YourName",
-      "Email": "your.email@example.com",
+      "Name": ".rammex",
+      "Email": "romain.kaspar@gmail.com",
       "Url": "https://your-website.com"
     }
   ],
-  "Website": "https://github.com/yourusername/hytale-plugin-template",
-  "Main": "com.example.templateplugin.TemplatePlugin",
+  "Website": "https://github.com/rammex666/MoneTale",
+  "Main": "fr.rammex.monetale.MoneTale",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},

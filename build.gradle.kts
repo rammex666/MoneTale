@@ -15,6 +15,7 @@ repositories {
 
 dependencies {
     // Hytale Server API (provided by server at runtime)
+    compileOnly(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
     compileOnly(files("libs/hytale-server.jar"))
     
     // Common dependencies (will be bundled in JAR)
